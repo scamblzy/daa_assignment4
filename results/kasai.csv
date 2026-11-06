@@ -1,0 +1,4 @@
+algorithm,size,average_time_ns
+Kasai,1000,273100
+Kasai,5000,1008280
+Kasai,10000,862900

@@ -1,0 +1,7 @@
+algorithm,size,average_time_ns
+LCS,100,1653480
+EditDistance,100,2040620
+LCS,500,3800300
+EditDistance,500,6823920
+LCS,1000,9175280
+EditDistance,1000,9053860
